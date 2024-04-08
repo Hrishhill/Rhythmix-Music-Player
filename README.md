@@ -1,6 +1,6 @@
 # Rhythmix Music 🎵
 
-### ✨ [Live Demo](https://Rhythmix-music.vercel.app)
+### ✨ [Live Demo]([https://Rhythmix-music.vercel.app](https://rhythmix-music-player.vercel.app/home))
 
 ## Overview
 
